@@ -1,3 +1,4 @@
+import ThemeToggler from "./ThemeToggler";
 import useThemeToggler from "./useThemeToggler";
 
-export { useThemeToggler };
+export { ThemeToggler, useThemeToggler };
